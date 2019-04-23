@@ -5,7 +5,7 @@
 #include<ctype.h>
 int tonum(char c)
 {
-return (((int)(c))-48);
+		return (((int)(c))-48);
 }
 void main()
 {
